@@ -1,0 +1,23 @@
+[main] filterTestRunner 1112 (0) exception: trapped!
+[main] filterTestRunner 1112 (0) exception: code 0xC0000005 at 0x6105AF88
+[main] filterTestRunner 1112 (0) exception: ax 0x40190C bx 0x244FE04 cx 0x244FE00 dx 0x244FE00
+[main] filterTestRunner 1112 (0) exception: si 0x401918 di 0x204E4EC bp 0x244FE70 sp 0x244FE44
+[main] filterTestRunner 1112 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] filterTestRunner 1112 (0) stack: Stack trace:
+[main] filterTestRunner 1112 (0) stack: frame 0: sp = 0x244F9E4, pc = 0x6100A2C3
+[main] filterTestRunner 1112 (0) stack: frame 1: sp = 0x244FA20, pc = 0x77EBB679
+[main] filterTestRunner 1112 (0) stack: frame 2: sp = 0x244FA44, pc = 0x77EBB64B
+[main] filterTestRunner 1112 (0) stack: frame 3: sp = 0x244FAF4, pc = 0x77E7010F
+[main] filterTestRunner 1112 (0) stack: frame 4: sp = 0x244FE70, pc = 0x6101A4A7
+[main] filterTestRunner 1112 (0) stack: frame 5: sp = 0x244FE80, pc = 0x401559
+[main] filterTestRunner 1112 (0) stack: frame 6: sp = 0x244FED4, pc = 0x4011BB
+[main] filterTestRunner 1112 (0) stack: frame 7: sp = 0x244FEE0, pc = 0x4012CF
+[main] filterTestRunner 1112 (0) stack: frame 8: sp = 0x244FF00, pc = 0x61004402
+[main] filterTestRunner 1112 (0) stack: frame 9: sp = 0x244FF50, pc = 0x61004420
+[main] filterTestRunner 1112 (0) stack: frame 10: sp = 0x244FF5C, pc = 0x401BCE
+[main] filterTestRunner 1112 (0) stack: frame 11: sp = 0x244FF6C, pc = 0x40103A
+[main] filterTestRunner 1112 (0) stack: frame 12: sp = 0x244FF88, pc = 0x76593677
+[main] filterTestRunner 1112 (0) stack: frame 13: sp = 0x244FF94, pc = 0x77E99F42
+[main] filterTestRunner 1112 (0) stack: frame 14: sp = 0x244FFD4, pc = 0x77E99F15
+[main] filterTestRunner 1112 (0) stack: frame 15: sp = 0x244FFEC, pc = 0x0
+[main] filterTestRunner 1112 (0) stack: End of stack trace
