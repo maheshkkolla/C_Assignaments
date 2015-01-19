@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "filter.h"
 #include "expr_assert.h"
-#include <stdio.h>
 
 int callbackForInt(int value,int index){
 	return(value%2 == 0);

@@ -10,3 +10,4 @@ int filterFloat(float *array, int length, float **result, float_cb callback);
 int filterChar(char *array, int length, char **result, char_cb callback);
 int filterString(string *array, int length, string **result, string_cb callback);
 
+
